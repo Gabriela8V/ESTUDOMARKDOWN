@@ -3,7 +3,7 @@ pouco de ***Markdown***
 
 ![](https://img.shields.io/badge/estudo-markdown-green)
 ![](https://img.shilds.io/badge/vers%C3%o-1.0.0.1-orange)
-![](https://img.shilds.io/badge/script-javascript-red)
+![](https://img.shields.io/badge/javascript-bedge-red)
 ![](https://img.shields.io/badge/Gabriela-blue?logo=github&style=social)gir
 # Titulo do Projeto
 ## Estudo do Projeto
