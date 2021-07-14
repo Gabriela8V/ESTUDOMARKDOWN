@@ -51,3 +51,20 @@ git
 
 ##  Veja o resultado do Estudo Markdown
 ![Tela do VScode](Capitura.png)
+
+### Tarefas
+
+- [] Montar o computador
+- [] Formatar o computador
+- [] Preparar o pendrive de boot
+- [] Instalar o sistema operacional
+- [] Verifica a instalação do  drives
+
+### Sistema e Empresas
+
+Emppresas| Sistemas | Versões
+---------|----------|--------
+Microsift|Windows  | 11
+Applee|MaacOs|10.14
+Ubuntu|Focal|2004
+ReadHat|Enterprise| 8
