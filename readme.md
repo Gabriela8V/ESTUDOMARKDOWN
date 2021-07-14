@@ -1,6 +1,10 @@
 Estou escrevendo minha **documentação** para *estudar* um
 pouco de ***Markdown*** 
 
+![](https://img.shields.io/badge/estudo-markdown-green)
+![](https://img.shilds.io/badge/vers%C3%o-1.0.0.1-orange)
+![](https://img.shilds.io/badge/script-javascript-red)
+![](https://img.shields.io/badge/Gabriela-blue?logo=github&style=social)gir
 # Titulo do Projeto
 ## Estudo do Projeto
 ### Trabalho com **documentação**
@@ -41,9 +45,9 @@ Nova caixa de texto
 
 ```
 # Veja a tela com o código acima
-![tela do meu computador](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+![Tela do meu computador](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
 
-
+git 
 
 ##  Veja o resultado do Estudo Markdown
-![TTela do VScode](Capitura.png)
+![Tela do VScode](Capitura.png)
